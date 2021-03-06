@@ -1,0 +1,194 @@
+.carousel-item {
+    height: 60vh;
+    min-height: 500px;
+    /* background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+}
+
+.carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    /* top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; */
+    /* background: rgb(228, 228, 228);
+    opacity: 0.7; */
+}
+
+#satu {
+    bottom: 165px;
+    /* height: 60vh; */
+}
+
+#dua {
+    /* height: 60vh; */
+    bottom: 40px;
+}
+
+#tiga {
+    /* height: 60vh; */
+    bottom: 50px;
+}
+
+.carousel-caption p {
+    font-family: "Nunito Sans", Arial;
+    font-size: 18px;
+    color: black;
+    /* text-transform: uppercase; */
+    /* letter-spacing: 2px; */
+    margin-top: 25px;
+}
+
+.carousel-caption li {
+    font-family: "Nunito Sans", Arial;
+    font-size: 18px;
+    color: black;
+    /* text-transform: uppercase; */
+    /* letter-spacing: 2px; */
+    margin-top: 20px;
+}
+
+.carousel-caption h4 {
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+
+.carousel-caption p {
+    width: 75%;
+    margin: auto;
+    /* font-size: 17px; */
+    line-height: 29px;
+}
+
+.carousel-caption li {
+    width: 90%;
+    margin: auto;
+    /* font-size: 17px; */
+    line-height: 29px;
+}
+
+.carousel-control-prev-icon {
+    color: black;
+
+}
+
+h4 {
+    font-size: 25px;
+    font-family: poppins;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Nunito Sans",
+        Arial;
+    font-size: 17px;
+    /* letter-spacing: 1px; */
+}
+
+h5 {
+    font-size: 17px;
+    font-family: "Nunito Sans",
+        Arial;
+}
+
+#kata {
+    font-family: "Nunito Sans",
+        Arial;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+#navbar {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: black;
+}
+
+td {
+    font-family: "Nunito Sans",
+        Arial;
+}
+
+#footer h3 {
+    font-size: 25px;
+    font-family: "Nunito Sans",
+        Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    /* text-transform: uppercase; */
+}
+
+#footer h5 {
+    /* font-size: 12px;
+    font-family: "Nunito Sans",
+        Arial;
+    text-transform: uppercase;
+    font-weight: bold; */
+    letter-spacing: 1px;
+}
+
+
+
+/* 
+body {
+    background-color: rgb(135, 191, 236;
+    } */
+
+/* .navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background: #fff;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.nav-link {
+    padding: .2rem 1rem;
+}
+
+.nav-link.active,
+.nav-link:focus {
+    color: #fff;
+}
+
+.navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+} */
